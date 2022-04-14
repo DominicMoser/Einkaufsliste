@@ -1,6 +1,6 @@
 # Don Quichote
----
 ![Pic](don.jpeg)
+
 ---
 - Age: 30
 - Geburtsort: Sevilla
