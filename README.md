@@ -1,5 +1,5 @@
 # Don Quichote
-![Pic](don.jpeg)
+![Pic](don.gif)
 
 ---
 - Age: 30
